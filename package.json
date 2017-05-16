@@ -1,16 +1,16 @@
 {
-  "name": "cordova-androidwear",
+  "name": "qrglue-androidwear-example",
   "version": "1.0.0",
-  "description": "Communication from your cordova application to an Android Wear application.",
+  "description": "C.",
   "cordova": {
-    "id": "cordova-androidwear",
+    "id": "qrglue-androidwear-example",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tgardner/cordova-androidwear.git"
+    "url": "git+https://github.com/cmcalfaro/qrglue-androidwear-example.git"
   },
   "keywords": [
     "AndroidWear",
@@ -27,10 +27,6 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Trent Gardner",
+  "author": "Carlos Alfaro",
   "license": "Apache 2.0",
-  "bugs": {
-    "url": "https://github.com/tgardner/cordova-androidwear/issues"
-  },
-  "homepage": "https://github.com/tgardner/cordova-androidwear#readme"
 }
